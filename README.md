@@ -3,17 +3,17 @@ All mini-Projects
 
 ## Note-App
 Note-App offers a platform for storing notes and utilizes Redux for efficient state management across React
-components.
-Technologies Used: React.js, Redux, Express.js, Node.js, Tailwind CSS and MongoDB
-Live Link: 
-GitHub: https://github.com/adarshshan/Mern-note-app
+components.<br />
+Technologies Used: React.js, Redux, Express.js, Node.js, Tailwind CSS and MongoDB<br />
+Live Link: <br />
+GitHub: https://github.com/adarshshan/Mern-note-app<br />
 
 ## Netflix-Clone
 Developed a Netflix clone website utilizing the TMDB API for movie data, with Firebase for authentication
-and authorization.
-Technologies Used: React.js, Firebase, Context-API, Tailwind CSS and TMDB API.
-Live Link: https://netflixy-reacty-clone.onrender.com/
-GitHub: https://github.com/adarshshan/Netflix-React
+and authorization.<br />
+Technologies Used: React.js, Firebase, Context-API, Tailwind CSS and TMDB API.<br />
+Live Link: https://netflixy-reacty-clone.onrender.com/<br />
+GitHub: https://github.com/adarshshan/Netflix-React<br />
 
 ## N-ACE
 Developed a Next.js application using the styling components from Aceternity UI.
