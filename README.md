@@ -27,18 +27,18 @@ Technologies Used: React.js, Redux, JWT, MongoDB, Node.js, Express.js, redux-dev
 Live Link: https://taskify-react-dnd-typescript.onrender.com/<br />
 GitHub: https://github.com/adarshshan/taskify-react_dnd-typescript/tree/main<br />
 
-##Shopping-Cart 
+## Shopping-Cart 
 Implemented comprehensive shopping cart functionalities and utilized the react-query npm package to streamline data fetching and caching in React applications.<br />
 Technologies Used: React.js, TypeScript and react-query<br />
 GitHub: https://github.com/adarshshan/Shoping-Cart_Typescript/tree/main<br />
 
-##To-Do Application
+## To-Do Application
 Developed a to-do application and employed Context API for effective state management throughout the application.<br />
 Technologies Used: React.js, Context API, CSS, LocalStorrage<br />
 Live Link: https://todo-app-floc.onrender.com<br />
 GitHub: https://github.com/adarshshan/Todo-app-React<br />
 
-##OLX-Clone
+## OLX-Clone
 Developed an OLX clone website where users can sign up and log in using Firebase features. Users can post their used products for sale and add products to their cart.<br />
 Technologies Used: React.js, Firebase Strorage and Authentication, Context API, CSS and React-Router-Dom<br />
 GitHub: https://github.com/adarshshan/React-olx-clone<br />
