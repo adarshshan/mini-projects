@@ -1,6 +1,24 @@
 # Mini-Projects
 All mini-Projects
 
+## Quick Chat
+Quick-Chat is a real-time chat application that offers both individual and group chat functionalities. It leverages
+Socket.IO to provide real-time chat capabilities, ensuring fast and reliable communication between users. <br/>
+Technologies Used: React.js, Socket.IO, Express.js, Node.js, Chakra UI, Context API and MongoDB<br/>
+GitHub: (frontend):https://github.com/adarshshan/QuickChat-frontend, (backend):https://github.com/adarshshan/QuickChat-backend<br/>
+
+## Weather - Application
+The application uses the OpenWeather API to deliver climate information for specified locations and enables
+users to search for weather details of different places.<br/>
+Technologies Used: React.js, TypeScript, Tailwind CSS and OpenWeather API<br/>
+GitHub: https://github.com/adarshshan/weather-web-app <br/>
+
+## V-Loader
+V-Loader is a CDN generator application designed specifically for managing and delivering advertisements
+efficiently across the web <br/>
+Technologies Used: Next.js, Express.js, Node.js, Tailwind CSS, MongoDB and Aceternity-UI.<br/>
+GitHub: (frontent): https://github.com/adarshshan/video-uploader-frontend, (backend): https://github.com/adarshshan/video-uploader-backend<br/>
+
 ## Note-App
 Note-App offers a platform for storing notes and utilizes Redux for efficient state management across React
 components.<br />
