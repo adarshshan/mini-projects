@@ -1,6 +1,10 @@
 # Mini-Projects
 All mini-Projects
 
+## Casino Slot Game
+This is a basic but well-structured slot game platform that works locally and uses WebSockets (not REST APIs) for all gameplay and balance interactions. The focus is on backend functionality, real-time communication, and clean code. You're expected to use Docker locally with MongoDB and Redis, and implement proper authentication, caching, and metrics.<br/>
+GitHub: https://github.com/adarshshan/casino-slot-game <br/>
+
 ## Quick Chat
 Quick-Chat is a real-time chat application that offers both individual and group chat functionalities. It leverages
 Socket.IO to provide real-time chat capabilities, ensuring fast and reliable communication between users. <br/>
