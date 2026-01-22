@@ -1,5 +1,9 @@
-# Mini-Projects
-All mini-Projects
+# Other-Projects
+
+## Extractify
+This project provides a full-stack solution to extract structured data from PDF documents using NanoNets OCR API and convert it into a structured Excel (.xlsx) file.<br/>
+Technologies Used: Angular, Express.js, Node.js, Redis, BullMQ, TypeScript, Nanonets and MongoDB <br/>
+GitHub: https://github.com/adarshshan/Extractify <br/>
 
 ## Casino Slot Game
 This is a basic but well-structured slot game platform that works locally and uses WebSockets (not REST APIs) for all gameplay and balance interactions. The focus is on backend functionality, real-time communication, and clean code. You're expected to use Docker locally with MongoDB and Redis, and implement proper authentication, caching, and metrics.<br/>
